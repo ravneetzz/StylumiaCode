@@ -33,7 +33,6 @@ public class MatrixMultiplication {
 
 
 
-//
 package drcode;
 
 public class Main {
@@ -62,7 +61,7 @@ public class Main {
 }
 
 
-//
+
 import java.util.ArrayList;
 
 public class Main2 {
@@ -151,7 +150,7 @@ public class Main2 {
 }
 
 
-//
+
 import java.util.Scanner;
 
 public class Main {
@@ -194,7 +193,7 @@ public class Main {
 }
 
 
-//
+
 public class MatrixChallenge {
     public static int findLargestSubmatrixArea(String[] matrix) {
         if (matrix.length == 0 || matrix[0].length() == 0)
@@ -235,7 +234,7 @@ public class MatrixChallenge {
 
 
 
-//
+
 package Stylumia;
 
 public class BandGandN {
